@@ -1,11 +1,9 @@
-//2.3
-
-import java.util.Scanner; // Import Scanner class
+import java.util.Scanner;
 
 public class TaskSolutions {
     public static void main(String[] args) {
         // a) Declare variables
-        int c, thisIsAVariable, q76354, number;
+        int c, thisIsAVariable, q76354, number = 0; // Initialize number
 
         // b) Prompt the user to enter an integer
         System.out.print("Enter an integer: ");
