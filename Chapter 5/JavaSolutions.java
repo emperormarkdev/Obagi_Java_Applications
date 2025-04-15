@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Exercise5_9 {
+public class JavaSolutions {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter a number to round: ");
