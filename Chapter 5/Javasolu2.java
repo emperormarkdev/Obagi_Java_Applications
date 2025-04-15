@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Exercise5_8 {
+public class Javasolu1.java {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         double total = 0.0;
