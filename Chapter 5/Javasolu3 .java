@@ -1,4 +1,4 @@
-public class Exercise5_7 {
+public class Javasolu3 {
     public static void main(String[] args) {
         double x;
         x = Math.abs(7.5);
